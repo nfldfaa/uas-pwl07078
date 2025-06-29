@@ -74,6 +74,8 @@ http://localhost:8000
 
 ### ✅ Aplikasi Siap Digunakan!
 
+---
+
 Silakan eksplorasi semua fitur yang tersedia.
 Dukung UMKM Indonesia bersama Ngode App.
 
