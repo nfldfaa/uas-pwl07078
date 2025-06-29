@@ -90,5 +90,5 @@ Silakan eksplorasi semua fitur yang tersedia.
 Dukung UMKM Indonesia bersama Ngode App.
 
 ### 👨‍💻 Dibuat Oleh
-Daffa Naufal Athallah - A12.2023.07078
+Daffa Naufal Athallah - A12.2023.07078.
 Dibangun menggunakan Laravel 12 – dibuat dengan ❤️ demi kemajuan digital UMKM lokal.
