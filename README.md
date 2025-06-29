@@ -1,5 +1,8 @@
 # 🛍️ Ngode App – Platform E-Commerce untuk UMKM
 
+
+![Ngode Banner](https://cdn.discordapp.com/attachments/1194601769452445756/1388989656485335110/Frame.jpg?ex=6862fcec&is=6861ab6c&hm=a5cadc55e53af0665c428a2443f55bc6192655c5c43bcf6d5ce4ec29c53b1eb5&)
+
 **Ngode** adalah platform e-commerce berbasis Laravel yang dirancang khusus untuk mendukung para pelaku **UMKM (Usaha Mikro, Kecil, dan Menengah)** di Indonesia. Nama **Ngode** diambil dari bahasa Banyumas yang berarti _"kerja"_, yang mencerminkan semangat kami dalam mendorong produktivitas dan kemandirian pelaku usaha lokal.
 
 Website ini menyajikan berbagai produk unggulan dari sektor UMKM seperti:
